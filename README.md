@@ -1,0 +1,2 @@
+# SUPER-MARKET-BILL-GENERATION-USING-PYTHON
+Technologies used: Python, MySQL
